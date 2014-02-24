@@ -15,7 +15,9 @@ drive - containing all the commonly used software.
 
 ### download
 
+```
 ./download.sh
+```
 
 ## updating
 
